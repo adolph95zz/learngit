@@ -1,3 +1,7 @@
 1111111111111
 w222222222222222
-Creating a new branch is quick & simple.提
+
+
+
+Creating a new branch is quick AND simple.
+
